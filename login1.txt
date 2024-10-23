@@ -1,2 +1,5 @@
 esta es una prueba creada para
 probar la nueva rama prueba1
+
+
+Probando - Modificación - la resolución -Modificacion desde prueba1 - conflictos 231024
